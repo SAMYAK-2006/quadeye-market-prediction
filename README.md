@@ -17,7 +17,11 @@ non-stationarity, not just maximize leaderboard score.
 - Ensemble OU mean-reversion signal
 - ARIMA, Kalman filter, and GP baselines
 - LSTM for non-stationary sequence modeling
-- [add others as you push them]
+- CNN
+- RNN
+- GRU (Gated Recurrent Unit)
+- State Space Model
+- RWKV (Receptive Weighted Key Value)
 
 ## Key findings
 
